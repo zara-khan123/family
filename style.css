@@ -1,0 +1,23 @@
+  body
+  {
+    background-color: rgb(145, 238, 255);
+    font-family: 'Montserrat', sans-serif;
+
+  }
+
+  #hi
+  {
+    font-size:20px;
+    background-color: chartreuse;
+    border-radius: 8px;
+
+  }
+
+  #hello
+  {
+    font-size:large;
+    font-family: 'Montserrat', sans-serif;
+
+  }
+
+  
